@@ -29,8 +29,7 @@ status - Show Users Count in DB. (Admin Only)
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
 
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/edcOa_cZWg4)
+
 
 
 Press Below Button to Deploy!
