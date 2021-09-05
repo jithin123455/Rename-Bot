@@ -19,10 +19,12 @@ class Config(object):
     ONE_PROCESS_ONLY = bool(os.environ.get("ONE_PROCESS_ONLY", False))
     START_TEXT = """
 I am Telegram Files Rename Bot.
+I have many features.
 
 Send me a File to Rename.
+Join my bot channel 
 
-Made by @AbirHasan2005
+Made by @bandu_of_tg
     """
     PROGRESS = """
 Percentage : {0}%
