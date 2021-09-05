@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [BANDU_OF_TG](https://t.me/BANDU_OF_TG).
 
 ## Features
 - Rename Videos, Files or Audios.
@@ -24,7 +24,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BANDU_BOTZ1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -35,18 +35,18 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithin123455/Rename-Bot)
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/jithin123455"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://t.me/BANDU_OF_TG"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://t.me/KALYANIV1"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://t.me/CODXMODS"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
