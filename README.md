@@ -13,10 +13,9 @@ This is a very simple Telegram Files Rename Bot by [BANDU_OF_TG](https://t.me/BA
 - Set Upload Mode. Upload as Document or Not.
 - Heroku Deployable 
 
-```
 
-### Support Group
-<a href="https://t.me/BANDU_BOTZ1"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
