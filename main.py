@@ -42,9 +42,9 @@ async def start_handler(bot: Client, event: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Support Group", url="https://t.me/DevsZone"),
-                 InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")],
-                [InlineKeyboardButton("Developer - @AbirHasan2005", url="https://t.me/AbirHasan2005")]
+                [InlineKeyboardButton("Support Group", url="https://t.me/BANDU_BOTZ1"),
+                 InlineKeyboardButton("Bots Channel", url="https://t.me/BANDU_BOTZ")],
+                [InlineKeyboardButton("Developer - BANDU_OF_TG", url="https://t.me/BANDU_OF_TG")]
             ]
         )
     )
@@ -208,7 +208,7 @@ async def show_thumb_handler(bot: Client, event: Message):
                 await bot.send_message(
                     chat_id=event.chat.id,
                     text=f"Unable to send Thumbnail!\n\n**Error:** `{err}`",
-                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("❎ Close ❎", callback_data="closeMeh")]]),
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("❎ Close ❎", callback_data="close")]]),
                     reply_to_message_id=event.message_id
                 )
             except:
@@ -290,7 +290,7 @@ async def callback_handlers(bot: Client, cb: CallbackQuery):
                 )
         except TimeoutError:
             await cb.message.edit(
-                text="Sorry Unkil,\n5 Minutes Passed! I can't wait more. Send me File Again to Rename.",
+                text="SORRY BRO,\n5 Minutes Passed! I can't wait more. Send me File Again to Rename.",
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Back", callback_data="openSettings")]])
             )
     elif "triggerPrefix" in cb.data:
@@ -400,7 +400,7 @@ async def callback_handlers(bot: Client, cb: CallbackQuery):
                 )
         except TimeoutError:
             await cb.message.edit(
-                text="Sorry Unkil,\n5 Minutes Passed! I can't wait more.",
+                text="Sorry BROTHER,\n5 Minutes Passed! I can't wait more.",
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Go Back", callback_data="openSettings")]])
             )
 
