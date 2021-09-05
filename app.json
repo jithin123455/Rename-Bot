@@ -7,9 +7,9 @@
         "rename",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Rename-Bot",
-    "website": "https://abirhasan.wtf",
-    "success_url": "https://t.me/AH_RenameBot",
+    "repository": "https://github.com/jithin123455/Rename-Bot",
+    "website": "https://t.me/BANDU_BOTZ",
+    "success_url": "https://t.me/bandu_pro_renamerbot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
