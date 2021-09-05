@@ -11,16 +11,8 @@ This is a very simple Telegram Files Rename Bot by [BANDU_OF_TG](https://t.me/BA
 - Set Custom Caption.
 - Set Prefix for File Rename.
 - Set Upload Mode. Upload as Document or Not.
-- Heroku Deployable :)
+- Heroku Deployable 
 
-### BotFather Commands:
-```
-start - Start Bot
-settings - Show Settings Panel
-delete_thumbnail - Delete Custom Thumbnail.
-delete_caption - Delete Caption.
-broadcast - Broadcast Message. (Admin Only)
-status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
