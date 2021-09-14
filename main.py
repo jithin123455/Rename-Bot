@@ -181,7 +181,7 @@ async def delete_thumb_handler(bot: Client, event: Message):
         "Custom Thumbnail Deleted Successfully!",
         reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton("Go To Settings", callback_data="openSettings")],
-            [InlineKeyboardButton("Close", callback_data="closeMeh")]
+            [InlineKeyboardButton("Close", callback_data="close")]
         ])
     )
 
@@ -202,7 +202,7 @@ async def show_thumb_handler(bot: Client, event: Message):
                     [[InlineKeyboardButton("Delete Thumbnail", callback_data="deleteThumbnail")]]
                 ),
                 reply_to_message_id=event.message_id
-            )
+            
         except Exception as err:
             try:
                 await bot.send_message(
